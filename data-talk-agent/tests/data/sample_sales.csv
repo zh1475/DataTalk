@@ -1,0 +1,12 @@
+transaction_id,date,category,sales,quantity,customer_segment
+101.0,2026-01-01,Electronics,120.5,2,Retail
+102.0,2026/01/02,Home,45.0,1,Retail
+103.0,2026-01-03,Electronics,,5,Wholesale
+104.0,2026-01-04,Home,15.0,1,Retail
+104.0,2026-01-04,Home,15.0,1,Retail
+105.0,2026-01-05,Electronics,9999.0,3,Wholesale
+106.0,2026-01-06,Electronics,35.0,1,Retail
+107.0,2026-01-07,,55.0,2,Wholesale
+108.0,01-08-2026,Furniture,85.0,,Retail
+109.0,2026-01-09,Furniture,110.0,4,
+110.0,2026-01-10,Electronics,40.0,1,Retail
