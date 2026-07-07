@@ -1,7 +1,7 @@
 # 📊 DataTalk
 
 <p align="center">
-  <img src="assets/thumbnail.png" alt="DataTalk Thumbnail" width="700"/>
+  <img src="data-talk-agent/assets/thumbnail.png" alt="DataTalk Thumbnail" width="700"/>
 </p>
 
 > **An AI-powered multi-agent business intelligence assistant built with Google Agent Development Kit (ADK).**
@@ -36,7 +36,7 @@ Built using the **Google Agent Development Kit (ADK)**, DataTalk demonstrates ho
 # 🏗️ Architecture
 
 <p align="center">
-  <img src="assets/architecture.png" width="850">
+  <img src="data-talk-agent/assets/architecture.png" width="850">
 </p>
 
 The workflow consists of specialized agents responsible for individual tasks:
