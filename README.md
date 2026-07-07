@@ -134,7 +134,7 @@ data-talk-agent/
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/data-talk-agent.git
+git clone https://github.com/zh1475/data-talk-agent.git
 cd data-talk-agent
 ```
 
