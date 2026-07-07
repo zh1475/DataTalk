@@ -5,6 +5,15 @@
 DataTalk enables users to upload CSV datasets, ask natural language business questions, and receive AI-generated analytical insights in a professional HTML report.
 
 ---
+## Quick Start
+
+```bash
+git clone https://github.com/<your-username>/DataTalk.git
+cd DataTalk
+python -m venv .venv
+pip install -r requirements.txt
+adk web
+```
 
 # Problem
 
